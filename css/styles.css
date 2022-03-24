@@ -7,6 +7,6 @@ li {
   list-style: none;
 }
 
-#vote, #under-18 {
+#vote, #under-18, #biden, #trump, #obama {
   display: none;
 }
